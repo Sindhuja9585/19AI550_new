@@ -6,14 +6,14 @@ To write a program to simulate the process of Pursue and Evade behavior in Unity
 ```
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project.
 2. Name the project "SteeringBehaviors" and select a location. Click Create.
-3.Open Unity Scene (default is SampleScene).
-  In the Hierarchy, create a Plane:
-  Right-click → 3D Object → Plane (this will be the ground).
-  Set its Scale to (10, 1, 10) for a larger surface.
-  Create three Capsule for the Player, Pursuer, and Evader:
-  Rename them to "Player", "Pursuer", and "Evader".
-  Set their Y Position to 0.5 (so they sit on the ground).
-  Change their Material for better distinction (optional).
+3. Open Unity Scene (default is SampleScene).
+   In the Hierarchy, create a Plane:
+   Right-click → 3D Object → Plane (this will be the ground).
+   Set its Scale to (10, 1, 10) for a larger surface.
+   Create three Capsule for the Player, Pursuer, and Evader:
+   Rename them to "Player", "Pursuer", and "Evader".
+   Set their Y Position to 0.5 (so they sit on the ground).
+   Change their Material for better distinction (optional).
 3. Add NavMesh and Bake
    Window → AI → Navigation (opens the Navigation tab).
    Select the Plane, go to the Navigation tab, and mark it as Navigation Static.
@@ -74,6 +74,7 @@ public class Evader : MonoBehaviour
     {
         evade();          
      }
+     
 }
 **Pursuer script**
 public class Pursuer: MonoBehaviour
