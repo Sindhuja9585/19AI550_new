@@ -53,10 +53,10 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
-# Initially player in air:
+### Initially player in air:
 ![435562714-002250ad-13a1-4514-bb5b-3143cee9aff2](https://github.com/user-attachments/assets/d31c12cb-386f-4f7a-adcc-32d72c2235e0)
 
-# After player jumped:
+### After player jumped:
 ![435562788-6c168f07-ddd3-48f0-aaf5-b2e7bb6fa33e](https://github.com/user-attachments/assets/b107d75d-b48b-4d80-8fd8-33885eb218df)
 
 ![435562822-243fbe45-5922-4e5f-a15c-8dbeb237a8bf](https://github.com/user-attachments/assets/e4627983-d575-437f-b636-779d4a68bab6)
