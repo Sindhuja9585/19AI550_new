@@ -83,11 +83,12 @@ Before Movement:
 
 ![426131687-fce17ff6-4328-4296-9887-5f89ecfd65aa](https://github.com/user-attachments/assets/8b073709-ac26-4c4f-9f0f-4ae7f341e6c4)
 
+
+
+
 After movement:
 
 ![426131720-ac20cc85-5115-4dd6-b752-1090f8d7e812](https://github.com/user-attachments/assets/ebd60e83-6d6e-4758-9c48-6d4fbc242369)
-
-
 
 ### Result:
 Thus the simple path finding  behavior was implemented using AI navigation successfully.
