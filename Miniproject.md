@@ -49,6 +49,7 @@ To develop a Unity 3D game where an AI-controlled agent uses reinforcement learn
     Observe the agent learning and navigating the maze.
 
 ### Program:
+MazeAgent.cs
 ```
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
