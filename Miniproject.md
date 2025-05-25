@@ -113,7 +113,6 @@ public class MazeAgent : Agent
 ![Mini project Output](https://github.com/user-attachments/assets/60cc6f30-9bc5-401a-b12c-bacfd06bd71b)
 
 
-
 ### Result:
 The AI agent was trained using Unity ML-Agents to navigate a 3D maze environment. With reinforcement learning principles, it learned to reach the target effectively, demonstrating successful AI navigation implementation in Unity.
 
